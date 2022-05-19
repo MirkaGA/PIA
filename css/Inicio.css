@@ -59,7 +59,3 @@ footer {
     text-align: center;
     display: inline-flex;
 }
-.carousel-item {
-    border-image: auto;
-    border-color: black;
-}
